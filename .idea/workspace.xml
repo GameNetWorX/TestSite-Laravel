@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f292d3-b504-4b63-a70a-c0ed7a5b3c76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/auth/verify.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TestSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <phar pharPath="C:\xampp\htdocs\php_mvc\composer.phar" interpreterId="5a4817cd-3dc6-4fa1-bd24-13ae24da4e30" />
@@ -134,6 +175,7 @@
       <path value="$PROJECT_DIR$/vendor/psy/psysh" />
       <path value="$PROJECT_DIR$/vendor/laravel/framework" />
       <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1hKscKVVaYdGkZIMRJk9WYZK8Ow" />
@@ -145,8 +187,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Laravel\TestSite\app\Models" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -162,17 +217,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599771195818</updated>
-      <workItem from="1599771197293" duration="539000" />
+      <workItem from="1599771197293" duration="1686000" />
+      <workItem from="1599773014770" duration="2586000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="707" y="359" key="#Composer" timestamp="1599771359994">
       <screen x="0" y="0" width="1792" height="963" />
     </state>
     <state x="707" y="359" key="#Composer/0.0.1792.963@0.0.1792.963" timestamp="1599771359994" />
+    <state x="678" y="250" key="FileChooserDialogImpl" timestamp="1599772655556">
+      <screen x="0" y="0" width="1792" height="963" />
+    </state>
+    <state x="678" y="250" key="FileChooserDialogImpl/0.0.1792.963@0.0.1792.963" timestamp="1599772655556" />
+    <state width="1750" height="250" key="GridCell.Tab.0.bottom" timestamp="1599773110968">
+      <screen x="0" y="0" width="1792" height="963" />
+    </state>
+    <state width="1750" height="250" key="GridCell.Tab.0.bottom/0.0.1792.963@0.0.1792.963" timestamp="1599773110968" />
+    <state width="1750" height="250" key="GridCell.Tab.0.center" timestamp="1599773110968">
+      <screen x="0" y="0" width="1792" height="963" />
+    </state>
+    <state width="1750" height="250" key="GridCell.Tab.0.center/0.0.1792.963@0.0.1792.963" timestamp="1599773110968" />
+    <state width="1750" height="250" key="GridCell.Tab.0.left" timestamp="1599773110968">
+      <screen x="0" y="0" width="1792" height="963" />
+    </state>
+    <state width="1750" height="250" key="GridCell.Tab.0.left/0.0.1792.963@0.0.1792.963" timestamp="1599773110968" />
+    <state width="1750" height="250" key="GridCell.Tab.0.right" timestamp="1599773110968">
+      <screen x="0" y="0" width="1792" height="963" />
+    </state>
+    <state width="1750" height="250" key="GridCell.Tab.0.right/0.0.1792.963@0.0.1792.963" timestamp="1599773110968" />
+    <state x="615" y="303" key="jetbrains.nodejs.interpreters-dialog" timestamp="1599772656447">
+      <screen x="0" y="0" width="1792" height="963" />
+    </state>
+    <state x="615" y="303" key="jetbrains.nodejs.interpreters-dialog/0.0.1792.963@0.0.1792.963" timestamp="1599772656447" />
+    <state x="559" y="207" width="672" height="678" key="search.everywhere.popup" timestamp="1599772123584">
+      <screen x="0" y="0" width="1792" height="963" />
+    </state>
+    <state x="559" y="207" width="672" height="678" key="search.everywhere.popup/0.0.1792.963@0.0.1792.963" timestamp="1599772123584" />
   </component>
 </project>
